@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Sample app to generate email templates
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 To run it -in the project directory, please run:
 
-### 'npm install' 
+### `npm install' 
 
 
 ### `npm start`
